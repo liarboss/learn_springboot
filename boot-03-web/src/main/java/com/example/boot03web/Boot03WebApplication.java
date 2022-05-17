@@ -1,13 +1,13 @@
-package com.example.boot02web;
+package com.example.boot03web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Boot02WebApplication {
+public class Boot03WebApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Boot02WebApplication.class, args);
+        SpringApplication.run(Boot03WebApplication.class, args);
     }
 
 }
