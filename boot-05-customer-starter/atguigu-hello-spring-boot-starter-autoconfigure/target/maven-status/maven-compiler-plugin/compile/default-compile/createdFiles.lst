@@ -1,0 +1,3 @@
+com\atguigu\hello\auto\HelloServiceAutoConfiguration.class
+com\atguigu\hello\bean\HelloProperties.class
+com\atguigu\hello\service\HelloService.class
